@@ -6,6 +6,8 @@ A lightweight JavaScript tool for inspecting and exploring global variables and 
 
 DOM Variables Analyzer is a diagnostic tool that helps developers inspect and analyze variables and functions available in the global scope of a web page. It creates a floating window overlay that allows interactive exploration of the JavaScript environment.
 
+![screenshot](https://github.com/user-attachments/assets/30adfab2-061f-4390-a2a6-5e16612c909d)
+
 ## Features
 
 - **Variables Tab**: Lists all global variables with their types and values
