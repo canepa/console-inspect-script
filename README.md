@@ -80,7 +80,7 @@ Tested and working on:
 
 ## License
 
-GPL
+GPL-3.0 license
 
 ## Author
 
