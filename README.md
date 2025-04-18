@@ -57,6 +57,10 @@ Or include it locally:
 
 Copy the entire content of the script and paste it in your browser's DevTools console, then press Enter.
 
+### Method 4: Add to Sources Snippets
+
+In DevTools go to sources > snippets, "+ News Snippet", paste the code and it will be always available in your browser
+
 ## How It Works
 
 The analyzer:
